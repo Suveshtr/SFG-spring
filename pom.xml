@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-spring</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>sfg-spring</name>
     <description>SFG project for Spring Boot</description>
 
@@ -48,7 +48,7 @@
     </build>
     <scm>
        <developerConnection>scm:git:git@github.com:Suveshtr/SFG-spring.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>sfg-spring-0.0.2</tag>
   </scm>
 
 </project>
