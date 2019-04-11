@@ -1,4 +1,4 @@
-package sfgspring.model;
+package guru.springframework.sfgspring.model;
 
 public class Person {
     private String firstName;

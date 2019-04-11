@@ -1,4 +1,4 @@
-package guru.springframework.sfgspring;
+package guru.springframework.sfgspring.model;
 
 
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package guru.springframework.sfgspring;
+package guru.springframework.sfgspring.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

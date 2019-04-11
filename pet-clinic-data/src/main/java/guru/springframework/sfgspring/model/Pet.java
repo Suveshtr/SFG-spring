@@ -1,4 +1,4 @@
-package sfgspring.model;
+package guru.springframework.sfgspring.model;
 
 import java.time.LocalDate;
 
