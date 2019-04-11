@@ -47,7 +47,6 @@
     </build>
     <scm>
        <developerConnection>scm:git:git@github.com:Suveshtr/SFG-spring.git</developerConnection>
-      <tag>sfg-spring-0.0.1</tag>
   </scm>
 
 </project>
